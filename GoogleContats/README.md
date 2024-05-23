@@ -23,6 +23,9 @@ Navegue até a pasta do projeto e instale as bibliotecas necessárias:
 ### 3. Preparar os Dados
 Vá até a pasta GoogleContats/app/dados. Nessa pasta, há um arquivo chamado `EMPRESAS_PESQUISA.csv` que contém duas colunas: `Nome` e `Endereço`. Altere os nomes e endereços para os estabelecimentos que deseja coletar informações e salve o arquivo.
 
+**OBS.: O `NOME` E `ENDEREÇO` NA PLANILHA DEVEM ESTAR TODOS EM LETRAS MAIÚSCULA**
+
+
 ### 4. Executar o Script
 Abra o terminal e navegue até a pasta `app`:
 * `cd GoogleContats`
