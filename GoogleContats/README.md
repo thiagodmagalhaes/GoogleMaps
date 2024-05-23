@@ -32,6 +32,8 @@ Dentro da pasta app execute o comando: `python main.py`
 
 O código será executado e você verá a execução através do navegador Chromium.
 
+Após a execução os dados serãos salvos em uma nova planilha localizada na pasta `dados/qualificados/EMPRESAS_PESQUISA2.csv`
+
 ## Observações
 * Este é um método programático para coletar dados de estabelecimentos comerciais. Certifique-se de seguir as políticas de uso do Google Maps.
 * Caso precise atualizar as TAGs HTML, inspecione o site do Google Maps e ajuste o código conforme necessário.
